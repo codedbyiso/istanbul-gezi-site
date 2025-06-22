@@ -5,7 +5,7 @@ const locations = [
     lng: 28.9802,
     cost: "700 TL (skip-the-line)",
     reviews: "Ziyaretçiler mimarisine hayran kalıyor.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Hagia_Sophia_Mars_2013_1.jpg/320px-Hagia_Sophia_Mars_2013_1.jpg"
+    image: "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hagia_Sophia_2020.jpg"
   },
   {
     name: "Topkapı Sarayı",
@@ -13,7 +13,7 @@ const locations = [
     lng: 28.9833,
     cost: "1200 TL (harem dahil)",
     reviews: "Çok büyük, detaylı, rehberli gezmenizi öneririm.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Topkapi_Saray.jpg/320px-Topkapi_Saray.jpg"
+    image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Topkap%C4%B1_Palace_entrance_gate.jpg"
   },
   {
     name: "Galata Kulesi",
@@ -21,7 +21,7 @@ const locations = [
     lng: 28.9744,
     cost: "700 TL",
     reviews: "Manzara müthiş, özellikle gün batımında.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Galata_Kulesi.jpg/320px-Galata_Kulesi.jpg"
+    image: "https://cdn.britannica.com/12/151212-050-1B63E7D0/Galata-Tower-Istanbul-Turkey.jpg"
   },
   {
     name: "Dolmabahçe Sarayı",
@@ -29,7 +29,7 @@ const locations = [
     lng: 29.0005,
     cost: "850 TL",
     reviews: "Boğaz manzarasıyla birlikte saray çok etkileyici.",
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dolmabahce_Palace_Bosphorus_Side.jpg/320px-Dolmabahce_Palace_Bosphorus_Side.jpg"
+    image: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Dolmabah%C3%A7e_Palace_Bosphorus.jpg"
   },
   {
     name: "Hilton Bomonti Otel",
@@ -37,7 +37,39 @@ const locations = [
     lng: 28.9795,
     cost: "-",
     reviews: "Kongre, toplantı ve konaklama için ideal.",
-    image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/54/60/57/hilton-istanbul-bomonti.jpg?w=600&h=400&s=1"
+    image: "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257124031.jpg"
+  },
+  {
+    name: "Süleymaniye Camii",
+    lat: 41.0165,
+    lng: 28.9632,
+    cost: "Ücretsiz",
+    reviews: "Sessiz, geniş avlulu ve muhteşem manzaralı.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/2/24/S%C3%BCleymaniye_Mosque_Istanbul_Turkey.jpg"
+  },
+  {
+    name: "Yerebatan Sarnıcı",
+    lat: 41.0083,
+    lng: 28.9779,
+    cost: "620 TL",
+    reviews: "Atmosfer çok etkileyici, sesli rehber önerilir.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Yerebatan_Cistern_Istanbul_2022.jpg"
+  },
+  {
+    name: "İstiklal Caddesi",
+    lat: 41.0369,
+    lng: 28.9850,
+    cost: "Ücretsiz",
+    reviews: "Canlı, eğlenceli, yürüyüş ve alışveriş için harika.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Istiklal_Caddesi_2023.jpg"
+  },
+  {
+    name: "Mısır Çarşısı",
+    lat: 41.0164,
+    lng: 28.9706,
+    cost: "Ücretsiz",
+    reviews: "Baharatlar ve hediyelikler için ideal. Kalabalık olabilir.",
+    image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Misircarsisi_Istanbul_inside.jpg"
   }
 ];
 
